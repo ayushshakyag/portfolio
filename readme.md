@@ -8,6 +8,7 @@ To run this project on your local machine, simply download or clone the reposito
 Copy code
 
 git clone https://github.com/ayushshakyag/portfolio
+
 cd portfolio
 
 open index.html
