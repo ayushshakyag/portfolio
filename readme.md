@@ -4,9 +4,12 @@ This project is a simple web page that showcases my resume. It is built using HT
 
 Installation
 To run this project on your local machine, simply download or clone the repository and open the index.html file in your web browser.
+
 Copy code
+
 git clone https://github.com/ayushshakyag/portfolio
 cd portfolio
+
 open index.html
 Usage
 The main page of the website is divided into several sections, each detailing a different aspect of my work experience and qualifications. The navigation bar at the top of the page allows you to quickly jump to any section of the page.
