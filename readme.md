@@ -1,4 +1,5 @@
-My Resume Project
+<p align="center"><h1> My Resume Project</h1></p>
+
 This project is a simple web page that showcases my resume. It is built using HTML and CSS only, and includes sections on my education, work experience, and skills.
 
 Installation
